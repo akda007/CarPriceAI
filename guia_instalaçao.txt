@@ -1,0 +1,15 @@
+Projeto feito com python 3.12.3
+
+1. Criar um venv
+python -m venv .venv
+
+2. Ativar o venv (cmd)
+.venv\Scripts\activate
+
+3. Instalar as dependencias
+pip install -r requirements.txt
+
+Será necessario Jupyter Notebook, ou a Extenção Jupyter Notebook Renderers no
+VSCode para poder vizualizar e rodar o projeto pelo Python Notebook.
+
+Após isso, sera apenas necessario rodar os codigos dentro dos .ipynb
